@@ -3,7 +3,7 @@
 - 플랫폼: BOJ
 - 문제 번호: 3986
 - 문제 이름: 좋은 단어
-- 링크: https://www.acmicpc.net/problem/10828
+- 링크: https://www.acmicpc.net/problem/3986
 
 ---
 

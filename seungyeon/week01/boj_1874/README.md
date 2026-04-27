@@ -3,7 +3,7 @@
 - 플랫폼: BOJ
 - 문제 번호: 1874
 - 문제 이름: 스택 수열
-- 링크: https://www.acmicpc.net/problem/10828
+- 링크: https://www.acmicpc.net/problem/1874
 
 ---
 

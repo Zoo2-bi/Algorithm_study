@@ -3,7 +3,7 @@
 - 플랫폼: BOJ
 - 문제 번호: 2841
 - 문제 이름: 외계인의 기타 연주
-- 링크: https://www.acmicpc.net/problem/10828
+- 링크: https://www.acmicpc.net/problem/2841
 
 ---
 
